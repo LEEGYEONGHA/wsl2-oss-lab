@@ -26,7 +26,13 @@ WSL2 환경에서 설치하고 사용한 오픈소스 소프트웨어를 정리�
 ### ChatGPT Desktop (Snap 버전) 설치
 
 ```bash
+sudo apt update
+sudo apt install snapd
 sudo snap install chatgpt-desktop
+
+### 설치 후 실행 명령어
+snap run chatgpt-desktop
+
 
 -WSL2 Ubuntu GUI 환경에서 실행됨
 ### 문제점
