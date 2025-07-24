@@ -1,4 +1,4 @@
-# WSL2 OSSS Lab
+# WSL2 OSS Lab
 # WSL2 기반 Ubuntu 개발환경 정리
 
 ## 📁 프로젝트: wsl2-oss-lab
