@@ -21,3 +21,13 @@ WSL2 환경에서 설치하고 사용한 오픈소스 소프트웨어를 정리�
   mkdir ~/wsl2-oss-lab
   cd ~/wsl2-oss-lab
   git init
+
+
+### ChatGPT Desktop (Snap 버전) 설치
+
+```bash
+sudo snap install chatgpt-desktop
+
+-WSL2 Ubuntu GUI 환경에서 실행됨
+### 문제점
+-한영 전환(fcitx)만 작동하지 않음
