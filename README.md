@@ -23,7 +23,7 @@ WSL2 환경에서 설치하고 사용한 오픈소스 소프트웨어를 정리�
   git init
 
 
-### ChatGPT Desktop (Snap 버전) 설치
+## 🧩 ChatGPT Desktop (Snap 버전) 설치
 
 ```bash
 sudo apt update
@@ -37,3 +37,6 @@ snap run chatgpt-desktop
 -WSL2 Ubuntu GUI 환경에서 실행됨
 ### 문제점
 -한영 전환(fcitx)만 작동하지 않음
+'''
+
+## 🧩 Cursor 설치
